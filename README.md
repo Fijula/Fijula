@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love reading books and coding for fun**
 
 ## 🚀 Languages and Tools:
-<a href="#"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fthumbs%2Fhtml5-icon%2Fhtml5-icon-1.png&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fhtml5-icon&tbnid=gdML7Am3Mv-wdM&vet=12ahUKEwjN2oeR5_H0AhV3KbcAHQsgCtMQMygBegUIARCwAQ..i&docid=Fikc4H93uAvMtM&w=320&h=320&itg=1&q=html%205%20icon%20png&hl=en&ved=2ahUKEwjN2oeR5_H0AhV3KbcAHQsgCtMQMygBegUIARCwAQ"  width="50%" height="50%"/></a>
+<a href="#"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fthumbs%2Fhtml5-icon%2Fhtml5-icon-1.png&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fhtml5-icon&tbnid=gdML7Am3Mv-wdM&vet=12ahUKEwjN2oeR5_H0AhV3KbcAHQsgCtMQMygBegUIARCwAQ..i&docid=Fikc4H93uAvMtM&w=320&h=320&itg=1&q=html%205%20icon%20png&hl=en&ved=2ahUKEwjN2oeR5_H0AhV3KbcAHQsgCtMQMygBegUIARCwAQ" /></a>
