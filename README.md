@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="assets/images/mern-stack-application-development/mern_zazz.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.zazz.io/assets/images/mern-stack-application-development/mern_zazz.png" height="175px"/></a>
 
 
 ## 🙋‍♂️ About Me- A passionate learner, code lover and a backend programmer..
