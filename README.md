@@ -5,9 +5,9 @@
 
 
 
-## 🙋‍♂️ About Me- A passionate learner, code lover and a backend programmer..
+## 🙋‍♂️ About Me- A passionate learner, code lover and a fullstack programmer..
 
-- 🔭 I’m currently working on **mern stack as backend tool**
+- 🔭 I’m currently working on **full stack with mern as backend tool**
 
 - 🌱 I’m currently updating on **full stack programming**
 
