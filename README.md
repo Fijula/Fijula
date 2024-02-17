@@ -5,15 +5,23 @@
 
 
 
-## 🙋‍♂️ About Me- A passionate learner, code lover and a fullstack programmer..
+## 🙋‍♂️ About Me- A passionate learner, code lover and a fullstack SDET..
+- 🔭 I’m currently working as **SDET - Software Developer in Test**
 
-- 🔭 I’m currently working on **full stack with mern as backend tool**
+- 🔭 Hands on **full stack with mern **
+  
+- 🔭 Hands on **full stack with python -django **
+  
+- 🔭 Hands on **full stack with java **
+  
+-  🔭 Indepth Knowledge about **Design Principles,Pattern, Automation , Performance , Security tools **
 
-- 🌱 I’m currently updating on **full stack programming**
 
-- 📫 How to reach me **fijulaazhikoden123@gmail.com**
+- 🌱 I’m currently updating on **full stack programming/ Automation**
 
-- ⚡ Fun fact **I love reading books and coding for fun**
+- 📫 Reach out to me @ **fijulaazhikoden123@gmail.com**
+
+- ⚡ Fun fact **I love reading books ,coding for fun and exploring new Techs**
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
